@@ -1,0 +1,34 @@
+        LACK OF ANY SUITABILITY FOR A PARTICULAR PURPOSE LICENSE
+        * There are many licenses, this one is mine.
+
+This license grants you a non-exclusive, worldwide, royalty free license to
+use, copy, modify, and distribute this software in source code form for
+non-commercial purposes in perpetuity. You may not use this source code
+for any commercial purpose. This software is provided "as is" without warranty
+and undoubtedly contains a great many bugs and "undocumented" features, and
+quite likely will only cause your computer to emit bad smells, catch fire and
+unexpectedly undergo rapid disassembly. You have been warned.
+
+In the event that you ignore my warnings and attempt to actually USE this software,
+there is no liability for loss of your time, patience, hair and any other resources.
+
+My only requirement is that you leave this license intact and maintain a list of
+contributors. Fixing a bug or two would be nice as well.
+
+If you host this project online, the website should be posted with the best GeoCities
+esthetic, using only HTML 3 or earlier, have an animated GIF of a spinning logo for
+the project, a non-functional counter of website visitors stuck at 144, an under
+construction disclaimer with a date at least two decades in the past and no client
+side scripting. Failure to follow these guidelines will undoubtedly produce a better
+webpage.
+
+Failure to follow these guidelines is no fun and will revert all rights to the software
+authors.
+
+If you find this software useful, consider buying the software developers a butterscotch
+pudding. Or better, donate to a good charity.
+
+TLDR:
+    Exploiting software developers, bad
+    Contributing to collective knowledge, good
+    "Don't be a dick" -- Wil Wheaton
